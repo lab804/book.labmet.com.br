@@ -1,4 +1,4 @@
-| Nome | |
+| Nome | [Soil Moisture Sensor](https://en.wikipedia.org/wiki/Soil_moisture_sensor) |
 | :--- | :--- |
 | Marca | ------ |
 | Modelo | ------ |
