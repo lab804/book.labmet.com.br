@@ -1,3 +1,4 @@
+# ![](/assets/logo_labmet.png)
 
 # Índice
 
