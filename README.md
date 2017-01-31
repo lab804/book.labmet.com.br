@@ -1,4 +1,4 @@
-# ![](/assets/Logo - Labmet - 1.png)
+<img src="assets/logo_labmet.png">
 
 # Índice
 
