@@ -8,7 +8,13 @@ Alem dos benefícios já citados, as estações meteorológicas são muito impor
 
 Atualmente, a estação meteorológica se encontra na versão V. 0.1 e conta com análises de:
 
-* Umidade
-* 
-\*
+* Umidade do ar
+* Precipitação Pluviométrica
+* Volume de água no solo
+* Velocidade de vento
+* Pressão atmosférica
+* Radiação solar
+* Índice de raios ultravioleta
+
+
 
