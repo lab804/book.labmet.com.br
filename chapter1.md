@@ -1,4 +1,4 @@
-| Nome | [Soil Moisture Sensor](#) |
+| Nome | [[Soil Moisture Sensor](#)](https://en.wikipedia.org/wiki/Soil_moisture_sensor) |
 | :--- | :--- |
 | Marca | ------ |
 | Modelo | ------ |
@@ -10,10 +10,6 @@
 | Taxa de erro | ------- |
 | Link site | ------- |
 | Link compra | [Soil Moisture](http://www.filipeflop.com/pd-aa99a-sensor-de-umidade-do-solo-higrometro.html) |
-
-
-
-
 
 
 
