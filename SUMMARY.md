@@ -3,7 +3,6 @@
 ## Índice
 
 * [Readme](README.md)
-* [Sumário](SUMMARY.md)
 * [Introdução](introducao.md)
 * [Estação Meteorológica ](estacao-meteorologica.md)
   * [Soil Moisture Sensor](chapter1.md)
