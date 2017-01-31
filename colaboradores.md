@@ -1,5 +1,8 @@
 ## Desenvolvedores:
 
-- Bárbara Panosso @bapanosso
-- João Trevizoli @joaoTrevizoli
-- Murilo Ijanc' @murilobsd
+* Bárbara Panosso @bapanosso
+* João Trevizoli @joaoTrevizoli
+* Murilo Ijanc' @murilobsd
+
+
+
