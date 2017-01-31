@@ -1,9 +1,8 @@
-# Sumário
+# Summary
 
+## Índice
 
-##Índice
-
-* [Leia me ](README.md)
+* [Readme](README.md)
 * [Introdução](introducao.md)
 * [Estação Meteorológica ](estacao-meteorologica.md)
   * [Soil Moisture Sensor](chapter1.md)
@@ -16,7 +15,4 @@
   * [Preparo de Solo](operacoes-mecanizadas/preparo-de-solo.md)
 * [Licença](licenca.md)
 * [Colaboradores](colaboradores.md)
-
-
-
 
