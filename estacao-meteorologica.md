@@ -6,3 +6,9 @@ São várias as finalidades para a previsão do tempo, e sabemos que o nosso cot
 
 Alem dos benefícios já citados, as estações meteorológicas são muito importantes quando o assunto é sustentabilidade. O conceito de sustentabilidade aplica-se no meio ambiente, na questão social, cultural e econômica. Seguindo estes conceitos, aplicações e finalidades, desenvolvemos uma estação meteorológica com o intuito de auxiliar as tomadas de decisão, com componentes acessíveis e de fácil manejo. A partir desta, será possível estipular a produtividade e auxiliar a manutenção de uma cultura, podendo prever, também, situações indesejadas.
 
+Atualmente, a estação meteorológica se encontra na versão V. 0.1 e conta com análises de:
+
+* Umidade
+* 
+\*
+
