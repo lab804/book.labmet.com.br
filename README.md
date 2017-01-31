@@ -1,10 +1,7 @@
 # 
 
-
-
 # Índice
 
-* [Sumário](SUMMARY.md)
 * [Introdução](README.md)
 * [Estação Meteorológica ](estacao-meteorologica.md)
   * [Soil Moisture Sensor](chapter1.md)
