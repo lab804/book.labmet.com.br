@@ -1,5 +1,3 @@
-# 
-
 | Tipo | Umidade |
 | :--- | :--- |
 | Sensor | [Soil Moisture Sensor](/chapter1.md) |
