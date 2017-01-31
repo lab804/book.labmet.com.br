@@ -1,4 +1,4 @@
-# [[![](/assets/logo_labmet.png)](/SUMMARY.md)](/SUMMARY.md)
+# [[[![](/assets/Capa livro Labmet (1).png)](/SUMMARY.md)](/SUMMARY.md)](/SUMMARY.md)
 
 
 
