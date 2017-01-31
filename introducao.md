@@ -1,4 +1,4 @@
-# ![](/assets/logo.png)
+#                                              ![](/assets/logo.png)
 
 O projeto [**LabMet**](http://www.labmet.com.br)** ** visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
 
