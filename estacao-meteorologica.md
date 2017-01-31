@@ -10,11 +10,11 @@ Atualmente, a estação meteorológica se encontra na versão V. 0.1 e conta com
 
 * Umidade do ar
 * Precipitação Pluviométrica
-* Volume de água no solo
-* Velocidade de vento
-* Pressão atmosférica
-* Radiação solar
-* Índice de raios ultravioleta
+* Umidade do Solo
+* Velocidade de Vento
+* Pressão Atmosférica
+* Radiação Solar
+* Índice de Raios Ultravioleta
 
 
 
