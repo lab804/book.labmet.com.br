@@ -1,4 +1,3 @@
-<img src="assets/logo_labmet.png" width="200px">
 
 # Índice
 
