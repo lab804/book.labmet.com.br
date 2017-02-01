@@ -1,6 +1,4 @@
-# Colaboradores
-
-
+# Contribuidores
 
 #### Gerente de projeto
 
