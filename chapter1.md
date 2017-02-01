@@ -9,7 +9,7 @@
 | Sensibilidade | Alta - Contudo, ajustável via potenciômetro |
 | Taxa de erro | ------- |
 | Link site | ------- |
-| Link compra | [Soil Moisture](http://www.filipeflop.com/pd-aa99a-sensor-de-umidade-do-solo-higrometro.html)![](/assets/soil_moisture.jpg) |
+| Link compra - Para acessar, clique na imagem  | ![](/assets/soil_moisture.jpg) |
 
 
 
