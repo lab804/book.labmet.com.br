@@ -1,5 +1,7 @@
 # Contribuidores
 
+---
+
 #### Gerente de projeto
 
 João Trevizoli
