@@ -4,5 +4,5 @@ As variáveis ambientais influenciam diretamente na produtividade da sua planta�
 
 Para a sustentação da posição competitiva da agricultura nacional no contexto internacional e, no próprio mercado interno, é necessário o desenvolvimento de um novo modelo de práticas e análises agrícolas. O monitoramento destas variáveis tem grande importância e é realizado por meio das [estações meteorológicas](/estacao-meteorologica.md).
 
-Produtividade e presenvação ambiental estão diretamente relacionados à lucratividade e qualidade. Sendo assim,   LabMet uni produção, economia, qualidade e sustentabilidade em uma só ferramenta.
+Produtividade e presenvação ambiental estão diretamente relacionados à lucratividade e qualidade. Sendo assim,   [LabMet](/introducao.md) une produção, economia, qualidade e sustentabilidade em uma só ferramenta.
 
