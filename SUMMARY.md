@@ -1,6 +1,4 @@
-# Sumário
-
----
+# Summary
 
 ## Índice
 
@@ -9,7 +7,7 @@
 * [Introdução](introducao.md)
 * [Estação Meteorológica ](estacao-meteorologica.md)
   * [Soil Moisture Sensor](chapter1.md)
-* [Variáveis Ambientais](variaveis-ambientais.md)
+* [Variáveis Atmosféricas](variaveis-ambientais.md)
   * [Umidade do Solo](variaveis-ambientais/umidade-do-solo.md)
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
   * [Plantio](operacoes-mecanizadas/plantio.md)
@@ -18,6 +16,4 @@
   * [Preparo de Solo](operacoes-mecanizadas/preparo-de-solo.md)
 * [Licença](licenca.md)
 * [Contribuidores](contribuidores.md)
-
-
 
