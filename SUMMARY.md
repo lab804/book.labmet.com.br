@@ -6,7 +6,9 @@
 * [Sumário](SUMMARY.md)
 * [Introdução](introducao.md)
 * [Estação Meteorológica ](estacao-meteorologica.md)
-  * [Soil Moisture Sensor](chapter1.md)
+  * [Versão 0.1](versao-0.1.md)
+    * [Soil Moisture Sensor](chapter1.md)
+  * Versão 0.2
 * [Variáveis Atmosféricas](variaveis-atmosfericas.md)
   * [Umidade do Solo](variaveis-ambientais/umidade-do-solo.md)
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
