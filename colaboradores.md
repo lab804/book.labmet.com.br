@@ -1,16 +1,18 @@
 # Colaboradores
 
+
+
 #### Gerente de projeto
 
 João Trevizoli
 
 #### Engenheiro de software
 
-Murilo Ijanc' 
+Murilo Ijanc'
 
 #### Cientista da computação
 
-Bárbara Panosso 
+Bárbara Panosso
 
 #### Criação de arte
 
@@ -23,6 +25,8 @@ Bárbara Panosso @bapanosso
 João Trevizoli @joaoTrevizoli
 
 Murilo Ijanc' @murilobsd
+
+#### Desenvolvedores Open Source
 
 
 
