@@ -8,3 +8,7 @@ O uso da mecanização pode aumentar a qualidade operacional de várias atividad
 
 Para tanto, se faz necessário análises, dados e informações de solo e climatológicas. Diante destas necessidades, [LabMet ](/introducao.md)é uma ferramenta gerencial que auxilia na tomada de decisões dos aspectos técnicos, de tempo e de custos, otimizando processos e recursos, garantindo maior eficiência e melhores resultados. O [LabMet ](/introducao.md)alcança estes resultados em quatro \(4\) principais vertentes: [Quando plantar](/operacoes-mecanizadas/plantio.md), [Quando colher](/operacoes-mecanizadas/colheita.md), [Quando pulverizar](/operacoes-mecanizadas/pulverizacao.md) e [Preparação de solo](/operacoes-mecanizadas/preparo-de-solo.md).
 
+
+
+
+
