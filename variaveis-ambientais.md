@@ -1,5 +1,7 @@
 # Variáveis Ambientais
 
+---
+
 A agricultura é uma atividade que se destaca pela grande importância social que representa, porém, se gerenciada de forma incorreta, ou seja, sem uma base de dados reais e informações fundamentais, pode causar vários impactos negativos, os quais vão de rendimento baixo, altos custos de produção, pouca qualidade, ineficiência de insumos ao meio ambiente.
 
 As variáveis ambientais influenciam diretamente na produtividade da uma plantação. Estas variáveis proporcionam o ambiente físico ao desenvolvimento das atividades agrícolas e a ação produtiva interfere no ambiente, que age sobre estas mesmas atividades, formando um ciclo.  A eficiência ou ineficiência da produção agrícola é resultado não apenas de fatores controláveis pelos gestores e produtores - terra, trabalho e capital -, mas também das condições ambientais - fertilidade natural do solo e o clima - que podem fazer com que produtores, submetidos a restrições ambientais, utilizem mais fatores e insumos como forma de compensar tais restrições, e não pela ineficiência. A importância das variáveis ambientais aumenta à medida que a eficiência técnica também se eleva.
