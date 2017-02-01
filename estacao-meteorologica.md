@@ -17,6 +17,6 @@ Atualmente, a estação meteorológica se encontra na versão V. 0.1 e conta com
 * Índice de Raios Ultravioleta
 * Temperatura do Solo
 * Temperatura Relativa
-
+* 
 
 
