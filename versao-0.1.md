@@ -1,4 +1,8 @@
-Esta estação meteorológica se encontra na versão V. 0.1 e conta com dados e análises de:
+
+
+![](/assets/estacao_versao01.png)
+
+Esta é a versão V. 0.1 da estação meteorológica e conta com análises e dados de:
 
 * Umidade Relativa do Ar
 * [Umidade do Solo](/variaveis-ambientais/umidade-do-solo.md)
