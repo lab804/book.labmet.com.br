@@ -6,3 +6,5 @@ O objetivo principal da pulverização é atingir o alvo indesejado com quantida
 
 A função do [LabMet](/introducao.md), perante esta vertente, é identificar a presença de pragas e doenças de forma antecipada e orientar quanto à necessidade de intervenção com a pulverização, a dose necessáriade defensivos agrícolas e qual o momento correto de aplicação - ou seja, condições climáticas favoráveis à absorção e translocação dos produtos -, sem que haja danos econômicos, produtivos, de qualidade e desperdício de recursos.
 
+
+
