@@ -7,7 +7,7 @@
 * [Introdução](introducao.md)
 * [Estação Meteorológica ](estacao-meteorologica.md)
   * [Soil Moisture Sensor](chapter1.md)
-* [Variáveis Atmosféricas](variaveis-ambientais.md)
+* [Variáveis Atmosféricas](variaveis-atmosfericas.md)
   * [Umidade do Solo](variaveis-ambientais/umidade-do-solo.md)
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
   * [Plantio](operacoes-mecanizadas/plantio.md)
