@@ -8,33 +8,9 @@ Desta forma, os usuários serão capazes de tomar decisões com base em dados re
 
 
 
+O LabMet é uma plataforma tecnológica de fácil compreensão, desenvolvida para o pequeno, médio e grande agricultor, no qual poderá tomar decisões estratégicas, como: quando plantar, irrigar, adubar, colher, etc\) de forma simples e precisa.
 
+A principal função é combinar monitoramento, localização e simulações meteorológicas avançadas com análise profunda de dados do solo e cultura para entregar soluções e recomendações aos produtores e seu plantio.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+O LabMet é uma tecnologia de precisão, no qual ajuda os produtores a tomar as melhores decisões, reduzindo riscos através de modelos estatísticos e desta forma aumentando a produtividade e lucratividade.
 
