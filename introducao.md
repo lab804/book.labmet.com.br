@@ -8,3 +8,5 @@ Com o desenvolvimento do [**LabMet**](http://www.labmet.com.br)** **, serão ofe
 
 Desta forma, os usuários serão capazes de tomar decisões com base em dados e informações reais de sua produção em tempo real, agregando maior agilidade e confiabilidade ao processo de tomada de decisão, além de proporcionar uma administração com qualidade, eficiência e inteligência aplicada ao agronegócio.
 
+
+
