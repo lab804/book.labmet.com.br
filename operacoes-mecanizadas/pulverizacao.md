@@ -1,6 +1,4 @@
-# Quando pulverizar
-
-
+# Quando Pulverizar
 
 
 
