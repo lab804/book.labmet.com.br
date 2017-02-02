@@ -1,4 +1,4 @@
-| Nome | [Soil Moisture Sensor](https://en.wikipedia.org/wiki/Soil_moisture_sensor) |
+| Nome | [[Soil Moisture Sensor](https://en.wikipedia.org/wiki/Soil_moisture_sensor)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-69162010000100004) |
 | :--- | :--- |
 | Marca | ------ |
 | Modelo | ------ |
@@ -9,7 +9,7 @@
 | Sensibilidade | Alta - Contudo, ajustável via potenciômetro |
 | Taxa de erro | ------- |
 | Link site | ------- |
-| Link compra - Para acessar, clique na imagem  | [![](/assets/soil_moisture.jpg)](http://www.filipeflop.com/pd-aa99a-sensor-de-umidade-do-solo-higrometro.html) |
+| Link compra - Para acessar, clique na imagem | [![](/assets/soil_moisture.jpg)](http://www.filipeflop.com/pd-aa99a-sensor-de-umidade-do-solo-higrometro.html) |
 
 
 
