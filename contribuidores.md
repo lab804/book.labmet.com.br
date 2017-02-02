@@ -4,6 +4,7 @@
 
 #### Gerente de projeto
 
+**[success] João Trevizoli**
 João Trevizoli
 
 #### Engenheiro de software
