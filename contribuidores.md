@@ -29,4 +29,6 @@ Murilo Ijanc' @murilobsd
 #### Desenvolvedores Open Source
 
 
-
+> **[info] For info**
+>
+> Use this for infomation messages.
