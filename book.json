@@ -1,9 +1,8 @@
 {
     "plugins": ["alerts","-sharing","analytics", "youtube"],
-
     "pluginsConfig": {
         "analytics": {
-            "google": "UA-91337553-1"}
+            "google": "UA-91337553-1"
+            }
     }
-}
 }
