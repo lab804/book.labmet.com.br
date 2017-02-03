@@ -6,7 +6,7 @@
 | Parâmetros | Humidade real |
 | Retorno | Indica a área mais e menos propícia para realizar a operação |
 | Observações | \* Armazenar dados coletados no banco de dados |
-|  |  |
+
 
 
 
