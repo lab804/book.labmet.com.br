@@ -1,4 +1,4 @@
-| Nome | Real Time Clock |
+| Nome | Real Time Clock (RTC)|
 | :--- | :--- |
 | Marca | ------- |
 | Modelo | DS1307 |
