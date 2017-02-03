@@ -1,7 +1,7 @@
 | Nome | Real Time Clock |
 | :--- | :--- |
-| Marca | Adafruit |
-| Modelo | AM2302 |
+| Marca | ------- |
+| Modelo | DS1307 |
 | Descrição | É um sensor de temperatura impermeável, permitindo mensurar temperatura do solo com medições entre  -55°C a +125°C |
 | Versão estação | 0.1 |
 | Interface | Digital - I2C |
