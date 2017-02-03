@@ -16,6 +16,13 @@
   * [Versão 0.2](versao-0.2.md)
 * [Variáveis Atmosféricas](variaveis-atmosfericas.md)
   * [Umidade do Solo](variaveis-ambientais/umidade-do-solo.md)
+  * Umidade Relativa do Ar
+  * Pressão Atmosférica
+  * Radiação Solar
+  * [Iluminância](variaveis-ambientais/radiacao-solar-iluminancia.md)
+  * Temperatura do Solo
+  * Temperatura Relativa do Ar
+  * Data e Hora
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
   * [Preparo de Solo](operacoes-mecanizadas/preparo-de-solo.md)
   * [Plantio](operacoes-mecanizadas/plantio.md)
