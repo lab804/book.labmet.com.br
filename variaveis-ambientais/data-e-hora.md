@@ -1,10 +1,10 @@
 | Tipo | Tempo |
 | :--- | :--- |
 | Sensor | [RTC](/rtc.md) |
-| Descrição |  |
-| Função | O dado coletado de humidade real deve ser enviado como parâmentro para API por meio da estação meteorológica. A API o confrotará com valores de máximo e mínimo pré definidos para a cultura em questão. A partir deste, alertará o usuário sobre quais áreas estão ou não háptas para realizar [operações agricolas](/operacoes-mecanizadas.md). |
-| Parâmetros | Humidade real |
-| Retorno | Indica a área mais e menos propícia para realizar a operação |
+| Descrição | Data e Hora |
+| Função | Fornece a data e hora para registro dos dados e informações no banco de dados, as quais são enviadas como parâmentro para API por meio da estação meteorológica.  A API registrará juntamente com os dados complementares.|
+| Parâmetros | -------- |
+| Retorno | Data \(dia/mês/ano\) e Horário \(hora:minuto e segundos\) |
 | Observações | Armazenar dados coletados no banco de dados |
 
 
