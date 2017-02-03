@@ -4,7 +4,7 @@ Esta é a versão V. 0.1 da estação meteorológica e conta com análises e dad
 
 * Umidade Relativa do Ar
 * Umidade do Solo
-* Pressão Atmosférica]
+* Pressão Atmosférica
 * Radiação Solar
 * Iluminância
 * Temperatura do Solo
