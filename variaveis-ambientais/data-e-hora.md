@@ -1,4 +1,4 @@
-| Tipo | Umidade |
+| Tipo | Tempo |
 | :--- | :--- |
 | Sensor | [Soil Moisture Sensor](/chapter1.md) |
 | Descrição | Responsável por mensurar o volume de água no solo |
@@ -6,8 +6,6 @@
 | Parâmetros | Humidade real |
 | Retorno | Indica a área mais e menos propícia para realizar a operação |
 | Observações | Armazenar dados coletados no banco de dados |
-
-
 
 
 
