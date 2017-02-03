@@ -13,7 +13,6 @@
     * [DHT22](dht22.md)
     * [DS18B20](ds18b20.md)
     * [RTC](rtc.md)
-    * [Display](display.md)
   * [Versão 0.2](versao-0.2.md)
 * [Variáveis Atmosféricas](variaveis-atmosfericas.md)
   * [Umidade do Solo](variaveis-ambientais/umidade-do-solo.md)
