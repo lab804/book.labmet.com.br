@@ -9,7 +9,7 @@
 | Sensibilidade | Alta - Umidade 0.1%RH; Temperatura 0.1 Celsius |
 | Taxa de erro | Umidade ~ 2%RH\(Max 5%RH\) e Temperature ~ 0.5 Celsius |
 | Link site | [Datasheet](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf) |
-| Link compra - Para acessar, clique na imagem |  |
+| Link compra - Para acessar, clique na imagem | [![](/assets/dht22.jpg)](http://www.filipeflop.com/pd-137442-sensor-de-umidade-e-temperatura-am2302-dht22.html) |
 
 
 
