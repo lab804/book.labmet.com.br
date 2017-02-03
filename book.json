@@ -3,7 +3,7 @@
     "pluginsConfig": {
         "pdf-styling": {
             "background": {
-                "image": "assets/logo_labmet.png"
+                "image": "/assets/logo_labmet.png"
                         }
                 }
         "analytics": {
