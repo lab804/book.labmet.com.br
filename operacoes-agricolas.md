@@ -6,3 +6,5 @@ O processo de produção agrícola é uma sucessão de decisões sobre o modo de
 
 As operações agrícolas incluem sempre trabalho humano na movimentação de materiais, plantas e animais. Incluem também o equipamento utilizado \(tractores, máquinas agrícolas, ferramentas, construções, vedações, canais de irrigação, etc.\) nelas utilizado ou que as condiciona. A importância do trabalho humano tem sido o fator determinante na evolução de execução das operações agrícolas, pois afeta a qualidade de vida dos que o praticam - entre outros fatores.
 
+
+
