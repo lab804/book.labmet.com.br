@@ -8,7 +8,7 @@
 | Tensão de operação | 3.3 - 6V |
 | Sensibilidade | Alta |
 | Taxa de erro | ------- |
-| Link site | [[[[Datasheet](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf)](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)](http://datasheets.maximintegrated.com/en/ds/DS1307.pdf) |
+| Link site |  |
 | Link compra - Para acessar, clique na imagem | [![](/assets/rtc.jpg)](http://www.filipeflop.com/pd-6b854-real-time-clock-rtc-ds1307.html) |
 
 
