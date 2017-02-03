@@ -1,6 +1,11 @@
 {
-    "plugins": ["alerts","-sharing","analytics", "youtube"," pdf-styling "],
+    "plugins": ["alerts","-sharing","analytics", "youtube","pdf-styling"],
     "pluginsConfig": {
+        "pdf-styling": {
+          "background": {
+            "image": "/home/barbara/Área de Trabalho/logo_labmet.png"
+              }
+            }
         "analytics": {
             "google": "UA-91337553-1"
             },
