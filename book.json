@@ -1,15 +1,10 @@
 {
     "plugins": ["alerts","-sharing","analytics", "youtube","pdf-styling"],
     "language": "pt",
-    "pdf": {
-        "headerTemplate": "Header of the PDF with _TITLE_",
-        "footerTemplate": "Footer HTML template. Available variables: _PAGENUM_, _TITLE_, _AUTHOR_ and _SECTION_."
-    },
     "pluginsConfig": {
         "pdf-styling": {
             "background": {
-                "image": "assets/logo_labmet.png",
-                "fill": true
+                "image": "assets/logo_labmet.png"
                 }
         },
         "analytics": {
