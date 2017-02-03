@@ -1,4 +1,4 @@
-# Operaões Agrícolas
+# Operações Agrícolas
 
 ---
 
