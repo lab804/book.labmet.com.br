@@ -1,4 +1,4 @@
-| Tipo | Radiação |
+| Tipo | Radiação Solar |
 | :--- | :--- |
 | Sensor | [Soil Moisture Sensor](/chapter1.md) |
 | Descrição | Responsável por mensurar o volume de água no solo |
