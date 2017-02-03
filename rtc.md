@@ -1,6 +1,6 @@
-| Nome | DS18B20 |
+| Nome | Real Time Clock |
 | :--- | :--- |
-| Marca | ------- |
+| Marca | Adafruit |
 | Modelo | AM2302 |
 | Descrição | É um sensor de temperatura impermeável, permitindo mensurar temperatura do solo com medições entre  -55°C a +125°C |
 | Versão estação | 0.1 |
