@@ -2,7 +2,7 @@
 | :--- | :--- |
 | Marca | Adafruit |
 | Modelo | AM2302 |
-| Descrição | É um sensor que permite mensurar temperatura ambiente e umidade do ar, com leituras de temperaturas entre -40 a +80 graus Celsius e umidade entre 0 a 100% |
+| Descrição | É um sensor  de umidade capacitivo e um termistor para medir o ar ao redor, permite mensurar temperatura ambiente e umidade do ar, com leituras de temperaturas entre -40 a +80 graus Celsius e umidade entre 0 a 100% |
 | Versão estação | 0.1 |
 | Interface | Digital - I2C |
 | Tensão de operação | 3.3 - 6V |
