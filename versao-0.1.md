@@ -9,7 +9,7 @@ Esta é a versão V. 0.1 da estação meteorológica e conta com análises e dad
 * Iluminância
 * Temperatura do Solo
 * Temperatura Relativa do Ar
-* Hora
+* Data e Hora
 
 
 
