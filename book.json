@@ -1,5 +1,5 @@
 {
-    "plugins": ["alerts","-sharing","analytics", "youtube"],
+    "plugins": ["alerts","-sharing","analytics", "youtube"," pdf-styling "],
     "pluginsConfig": {
         "analytics": {
             "google": "UA-91337553-1"
