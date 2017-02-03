@@ -7,7 +7,7 @@ Esta é a versão V. 0.1 da estação meteorológica e conta com análises e dad
 * Velocidade de Vento
 * Pressão Atmosférica
 * Radiação Solar
-* Iluminância
+* [Iluminância](/bh1750.md)
 * Temperatura do Solo
 * Temperatura Relativa do Ar
 
