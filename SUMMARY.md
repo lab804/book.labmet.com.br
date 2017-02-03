@@ -23,12 +23,12 @@
   * [Temperatura do Solo](variaveis-ambientais/temperatura-do-solo.md)
   * [Temperatura Relativa do Ar](variaveis-ambientais/temperatura-relativa-do-ar.md)
   * [Data e Hora](variaveis-ambientais/data-e-hora.md)
+  * [Operações Agrícolas](operacoes-agricolas.md)
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
   * [Preparo de Solo](operacoes-mecanizadas/preparo-de-solo.md)
   * [Plantio](operacoes-mecanizadas/plantio.md)
   * [Pulverização](operacoes-mecanizadas/pulverizacao.md)
   * [Colheita](operacoes-mecanizadas/colheita.md)
-* [Operações Agrícolas](operacoes-agricolas.md)
 * [Licença](licenca.md)
 * [Contribuidores](contribuidores.md)
 
