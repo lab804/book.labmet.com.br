@@ -28,6 +28,7 @@
   * [Plantio](operacoes-mecanizadas/plantio.md)
   * [Pulverização](operacoes-mecanizadas/pulverizacao.md)
   * [Colheita](operacoes-mecanizadas/colheita.md)
+* [Operações Agrícolas](operacoes-agricolas.md)
 * [Licença](licenca.md)
 * [Contribuidores](contribuidores.md)
 
