@@ -3,10 +3,10 @@
 Esta é a versão V. 0.1 da estação meteorológica e conta com análises e dados de:
 
 * Umidade Relativa do Ar
-* [Umidade do Solo](/variaveis-ambientais/umidade-do-solo.md)
-* [Pressão Atmosférica](/bmp180.md)
+* Umidade do Solo
+* Pressão Atmosférica]
 * Radiação Solar
-* [Iluminância](/bh1750.md)
+* Iluminância
 * Temperatura do Solo
 * Temperatura Relativa do Ar
 
