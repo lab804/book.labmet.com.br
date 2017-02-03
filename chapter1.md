@@ -2,7 +2,7 @@
 | :--- | :--- |
 | Marca | ------ |
 | Modelo | ------ |
-| Descrição | É um sensor capacitivo que permite realizar medições precisas de umidade de solo, com baixo consumo de energia e alta sensibilidade |
+| Descrição | É um sensor capacitivo que permite realizar medições precisas de umidade de solo, com baixo consumo de energia e alta sensibilidade. |
 | Versão estação | 0.1 |
 | Interface | Analógica |
 | Tensão de operação | 3.3 - 5V |
