@@ -1,6 +1,6 @@
 | Tipo | Tempo |
 | :--- | :--- |
-| Sensor | [Soil Moisture Sensor](/chapter1.md) |
+| Sensor | [RTC](/rtc.md) |
 | Descrição | Responsável por mensurar o volume de água no solo |
 | Função | O dado coletado de humidade real deve ser enviado como parâmentro para API por meio da estação meteorológica. A API o confrotará com valores de máximo e mínimo pré definidos para a cultura em questão. A partir deste, alertará o usuário sobre quais áreas estão ou não háptas para realizar [operações agricolas](/operacoes-mecanizadas.md). |
 | Parâmetros | Humidade real |
