@@ -1,7 +1,7 @@
-| Nome | [DHT22 \(ou AM2302\)](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf) |
+| Nome | [DHT22](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf) |
 | :--- | :--- |
 | Marca | Adafruit |
-| Modelo | ------- |
+| Modelo | AM2302 |
 | Descrição | É um sensor que permite mensurar temperatura ambiente e umidade do ar, com leituras de temperaturas entre -40 a +80 graus Celsius e umidade entre 0 a 100% |
 | Versão estação | 0.1 |
 | Interface | Digital - I2C |
