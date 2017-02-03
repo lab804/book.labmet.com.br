@@ -23,7 +23,7 @@
   * [Temperatura do Solo](variaveis-ambientais/temperatura-do-solo.md)
   * [Temperatura Relativa do Ar](variaveis-ambientais/temperatura-relativa-do-ar.md)
   * [Data e Hora](variaveis-ambientais/data-e-hora.md)
-  * [Operações Agrícolas](operacoes-agricolas.md)
+* [Operações Agrícolas](operacoes-agricolas.md)
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
   * [Preparo de Solo](operacoes-mecanizadas/preparo-de-solo.md)
   * [Plantio](operacoes-mecanizadas/plantio.md)
