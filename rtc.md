@@ -1,4 +1,4 @@
-| Nome | Real Time Clock (RTC)|
+| Nome | Real Time Clock \(RTC\) |
 | :--- | :--- |
 | Marca | ------- |
 | Modelo | DS1307 |
@@ -7,7 +7,7 @@
 | Interface | Digital - I2C |
 | Tensão de operação | 3 - 5,5V |
 | Sensibilidade | Alta |
-| Taxa de erro | ±0.5°C entre -10°C e +85°C |
+| Taxa de erro | ------- |
 | Link site | [[[Datasheet](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf)](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf)](http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf) |
 | Link compra - Para acessar, clique na imagem | [![](/assets/ds18b20.jpg)](http://www.filipeflop.com/pd-1e7d0e-sensor-de-temperatura-ds18b20-a-prova-d-agua.html) |
 
