@@ -6,8 +6,5 @@ A produção acelerada no setor agrícola permitiu a criação e aprimoramento d
 
 O uso da mecanização pode aumentar a qualidade operacional de várias atividades que compõem o sistema de produção como: preparo do solo, plantio, aplicação de adubo e defensivo agrícola e colheita. Espera-se que esta qualidade operacional reflita de forma positiva na produtividade final e que os custos de produção geram lucros.
 
-Para tanto, se faz necessário análises, dados e informações de solo e climatológicas reais de sua produção em tempo real. Diante destas necessidades,LabMeté uma ferramenta gerencial que auxilia na tomada de decisões dos aspectos técnicos, de tempo e de custos, otimizando processos e recursos, garantindo maior eficiência e melhores resultados. OLabMetfornece estes resultados em quatro \(4\) principais vertentes:Quando plantar,Quando colher,Quando pulverizarePreparação de solo.
-
-  
-
+Para tanto, se faz necessário análises, dados e informações de solo e climatológicas reais de sua produção em tempo real. Diante destas necessidades, [LabMet](/introducao.md) é uma ferramenta gerencial que auxilia na tomada de decisões dos aspectos técnicos, de tempo e de custos, otimizando processos e recursos, garantindo maior eficiência e melhores resultados. OLabMetfornece estes resultados em quatro \(4\) principais vertentes: [Quando plantar](/operacoes-mecanizadas/plantio.md), [Quando colher](/operacoes-mecanizadas/colheita.md), [Quando pulveriza](/operacoes-mecanizadas/pulverizacao.md)r e [Preparação de solo](/operacoes-mecanizadas/preparo-de-solo.md).
 
