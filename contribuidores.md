@@ -28,6 +28,9 @@ Murilo Ijanc' @murilobsd
 
 # 
 
-> **[info] Colaboradores Open Source**
+> **\[info\] Contribuidores Open Source**
 >
-> Para ser um colaborador Open Source, entre em contato conosco por meio do GitHub @lab804 ou contato@lab804.com.br.
+> Para ser um contribuidor Open Source, entre em contato conosco por meio do GitHub @lab804 ou contato@lab804.com.br.
+
+
+
