@@ -26,9 +26,8 @@ João Trevizoli @joaoTrevizoli
 
 Murilo Ijanc' @murilobsd
 
-#### Desenvolvedores Open Source
+# 
 
-
-> **[info] For info**
+> **[info] Colaboradores Open Source**
 >
-> Use this for infomation messages.
+> Para ser um colaborador Open Source, entre em contato conosco por meio do GitHub @lab804 ou contato@lab804.com.br.
