@@ -1,11 +1,12 @@
 {
     "plugins": ["alerts","-sharing","analytics", "youtube","pdf-styling"],
+    "language": "pt",
     "pluginsConfig": {
         "pdf-styling": {
             "background": {
                 "image": "assets/logo_labmet.png"
-                        }
-                },
+                }
+        },
         "analytics": {
             "google": "UA-91337553-1"
             },
@@ -18,7 +19,8 @@
             "vk": false,
             "all": [
                 "facebook", "google", "twitter",
-                "weibo", "instapaper"]
-                }
+                "weibo", "instapaper"
+                ]
+            }
         }
 }
