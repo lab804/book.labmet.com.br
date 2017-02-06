@@ -26,8 +26,7 @@ João Trevizoli @joaoTrevizoli
 
 Murilo Ijanc' @murilobsd
 
-
-
+# 
 
 > **[info] Desenvolvedores Open Source**
 >
