@@ -1,5 +1,5 @@
 {
-    "plugins": ["alerts","-sharing","analytics", "youtube","pdf-styling"],
+    "plugins": ["alerts","-sharing","analytics", "youtube","pdf-styling", "back-to-top-button"],
     "language": "pt",
     "pluginsConfig": {
         "pdf-styling": {
