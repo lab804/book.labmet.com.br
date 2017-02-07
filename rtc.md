@@ -2,7 +2,7 @@
 | :--- | :--- |
 | Marca | Dallas Semiconductor |
 | Modelo | DS1307 |
-| Descrição | É um relógio de tempo real com calendário completo e mais de 56 bytes de SRAM, sendo capaz de fornecer informações como segundos, minutos, dia, data, mês e ano. |
+| Descrição | É um relógio de tempo real com calendário completo e mais de 56 bytes de SRAM, sendo capaz de fornecer informações como segundos, minutos, dia, data, mês e ano. Possui uma bateria de 15 anos de durabilidade, devido ao seu baixo consumo de energia. |
 | Versão estação | 0.1 |
 | Interface | Digital - I2C |
 | Tensão de operação | 3.3 - 6V |
