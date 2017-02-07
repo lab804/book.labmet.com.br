@@ -1,4 +1,4 @@
-| Tipo | Umidade do Ar |
+| Tipo | Umidade Relativa do Ar |
 | :--- | :--- |
 | Sensor | [DHT22](/dht22.md) |
 | Descrição | Responsável por mensurar a umidade relativa do ar |
