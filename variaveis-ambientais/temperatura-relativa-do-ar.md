@@ -1,4 +1,4 @@
-| Tipo | Temperatura Relativa do Ar |
+| Tipo | Temperatura do Ar |
 | :--- | :--- |
 | Sensor | [DHT22](/dht22.md) - [BMP180](/bmp180.md) |
 | Descrição | Responsável por mensurar a temperatura relativa do ar |
