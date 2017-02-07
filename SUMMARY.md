@@ -1,4 +1,4 @@
-# Sumário
+# Summary
 
 ## Índice
 
@@ -21,7 +21,7 @@
   * [Radiação Solar](variaveis-ambientais/radiacao-solar.md)
   * [Iluminância](variaveis-ambientais/radiacao-solar-iluminancia.md)
   * [Temperatura do Solo](variaveis-ambientais/temperatura-do-solo.md)
-  * [Temperatura Relativa do Ar](variaveis-ambientais/temperatura-relativa-do-ar.md)
+  * [Temperatura do Ar](variaveis-ambientais/temperatura-relativa-do-ar.md)
   * [Data e Hora](variaveis-ambientais/data-e-hora.md)
 * [Operações Agrícolas](operacoes-agricolas.md)
 * [Operações Mecanizadas](operacoes-mecanizadas.md)
@@ -31,6 +31,4 @@
   * [Colheita](operacoes-mecanizadas/colheita.md)
 * [Licença](licenca.md)
 * [Contribuidores](contribuidores.md)
-
-
 
