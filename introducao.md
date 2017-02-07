@@ -2,7 +2,7 @@
 
 ---
 
-O projeto LabMet é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
+O projeto [**LabMet** ](/www.labmet.com.br)é uma plataforma tecnológica de precisão e de fácil compreensão, com embasamento técnico, teórico e científico, que visa desenvolver um sistema de apoio aos agricultores, gestores agrícolas e pesquisadores, capaz de sanar as principais lacunas existentes nas ferramentas disponíveis atualmente no mercado. Este sistema tem por objetivo auxiliar nas tomadas de decisões gerenciais das principais culturas agrícolas do país.
 
 Em termos agrometeorológicos, a tomada de decisão é feita de acordo com as condições do tempo e a disponibilidade de água no solo. As informações da previsão do tempo são utilizadas para antecipar decisões e obter resultados ainda melhores. Para que o resultado de uma decisão seja o melhor, as informações sobre a resposta das culturas às condições do tempo e clima devem ser precisas e realistas, inclusive sobre sua fenologia e práticas de manejo necessárias. Sendo assim, tomar decisões corretas representa eficiência e competitividade.
 
