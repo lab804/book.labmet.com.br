@@ -1,4 +1,4 @@
-| Nome | [[Soil Moisture Sensor](https://en.wikipedia.org/wiki/Soil_moisture_sensor)](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-69162010000100004) |
+| Nome | [Soil Moisture Sensor](https://drive.google.com/file/d/0B3xnhlFLgV3RY3M1NURKVWc2Q0U/view?usp=sharing) |
 | :--- | :--- |
 | Marca | ------ |
 | Modelo | ------ |
