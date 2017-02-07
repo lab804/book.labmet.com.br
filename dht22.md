@@ -1,4 +1,4 @@
-| Nome | [DHT22](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf) |
+| Nome | [DHT22](https://drive.google.com/file/d/0B3xnhlFLgV3RTmFRWkV6YmNGRFE/view?usp=sharing) |
 | :--- | :--- |
 | Marca | Adafruit |
 | Modelo | AM2302 |
@@ -8,7 +8,7 @@
 | Tensão de operação | 3 - 5V |
 | Sensibilidade | Alta - Umidade 0.1%RH; Temperatura 0.1 Celsius |
 | Taxa de erro | Umidade ± 2,0% UR e Temperature : ± 0,5 ºC |
-| Link site | [Datasheet](https://cdn-shop.adafruit.com/datasheets/Digital+humidity+and+temperature+sensor+AM2302.pdf) |
+| Link site | [Datasheet](https://drive.google.com/file/d/0B3xnhlFLgV3RTmFRWkV6YmNGRFE/view?usp=sharing) |
 | Link compra - Para acessar, clique na imagem | [![](/assets/dht22.jpg)](http://www.filipeflop.com/pd-137442-sensor-de-umidade-e-temperatura-am2302-dht22.html) |
 
 
